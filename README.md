@@ -1,6 +1,3 @@
-## Hi there 👋
-I'm lacelit684
-remind me to update this later
 <!--
 **lacelit684/lacelit684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: they/them > he/him
 - ⚡ Fun fact: ...
 -->
+
+# lacelit684
+- Other-than-professional software handyperson
+- Reach me over on Discord: @lacelit684
+- she/they
