@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # lacelit684
-- Other-than-professional software handyperson
+- Beginner software developer
 - Reach me over on Discord: @lacelit684
-- she/they
+- she > they
